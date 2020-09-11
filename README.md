@@ -12,7 +12,7 @@ You can learn more about each of these components within the [Quick Start Guide]
 
  
 # Clone this repository
-git clone https://github.com/sachi0554/electron-mouse-keyboard-activites.git
+git clone angular-electron-mouse-keyboard-activites-monitor
 # Go into the repository
 cd electron-quick-start
 # Install dependencies
